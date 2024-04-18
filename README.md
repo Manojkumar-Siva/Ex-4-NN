@@ -1,7 +1,7 @@
-<H3>NAME : Vidya Neela M</H3>
-<H3>ROLL NO : 212221230120 </H3>
+<H3>NAME : Manoj Kumar S</H3>
+<H3>ROLL NO : 212221230056 </H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:18.04.2024</H3>
+<H3>DATE: </H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
